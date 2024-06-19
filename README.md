@@ -10,8 +10,8 @@ At **RyoForge**, we are passionate about creating innovative software solutions 
 - 👀 **Interests:** Building scalable web applications, cloud computing, and automation.
 - 🌱 **Currently Learning:** Advancing our knowledge in AWS services and enhancing our CI/CD pipelines.
 - 💞️ **Collaboration:** We are eager to collaborate on MERN stack projects, AWS infrastructure, and CI/CD models.
-- 📫 **Contact Us:** [LinkedIn](https://www.linkedin.com/in/yourprofile), [Twitter](https://twitter.com/yourprofile), or via [email](mailto:your.email@example.com).
-- ⚡ **Fun Fact:** We love exploring new tech and often participate in hackathons to challenge ourselves!
+- 📫 **Contact Us:** [LinkedIn](https://www.linkedin.com/in/yourprofile), [Twitter](https://twitter.com/yourprofile), or via [email](mailto:ryoforge20@gmail.com).
+- ⚡ **Fun Fact:** We love exploring new tech!
 
 ## 📊 GitHub Stats
 ![RyoForge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyoForge&show_icons=true&theme=radical)
