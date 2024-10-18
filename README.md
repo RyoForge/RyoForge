@@ -1,7 +1,7 @@
 
-# RyoForge Solutions 🌐
+# Ryo Forge Private Limited 🌐
 
-# Welcome to **RyoForge Solutions** — where ideas transform into powerful digital solutions! 🚀
+# Welcome to **Ryo Forge Private Limited** — where ideas transform into powerful digital solutions! 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RyoForge&style=flat-square&color=blue)
 
